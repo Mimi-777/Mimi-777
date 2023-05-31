@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on different projects.
- - Fun fact, I love beautiful ladies💞️😜 and food .
+ - Fun fact, I admire beautiful ladies💞️😜 and i love food  so much.
 - 📫 Contact me on my email: nwasukam@gmail.com
 
 <!---
