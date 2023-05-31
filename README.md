@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Mimi-777
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning new skills
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on different projects.
+ - Fun fact, I love beautiful ladies💞️😜 and food .
+- 📫 Contact me on my email: nwasukam@gmail.com
 
 <!---
 Mimi-777/Mimi-777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
