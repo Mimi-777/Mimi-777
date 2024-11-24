@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on different projects.
- - Fun fact, I admire beautiful ladies💞️😜 and i love food  so much.
+ - Fun fact: A programmer's favorite coffee break? When the code finally works after hours of debugging! 🍵☕️.
 - 📫 Contact me on my email: nwasukam@gmail.com
 
 <!---
